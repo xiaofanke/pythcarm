@@ -1,5 +1,5 @@
 import numpy as np
-print(2)
+print(21)
 
 x = np.arange(10)
 for i in x:
